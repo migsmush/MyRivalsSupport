@@ -1,6 +1,6 @@
 # App Support
 
-Welcome to the support page for the **[MyRivals]** iOS application.
+Welcome to the support page for the **MyRivals** iOS application.
 
 If you're experiencing an issue with the app or have a feature request, you can submit a support request by opening an issue in this repository. Please follow the steps below to help us assist you as quickly as possible.
 
@@ -50,4 +50,4 @@ If you’d like to suggest a new feature, please:
 
 ---
 
-Thank you for helping us improve **[MyRivals]**!
+Thank you for helping us improve **MyRivals**!
